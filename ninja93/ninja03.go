@@ -28,5 +28,5 @@ func main() {
 
 	}
 	wg.Wait()
-	fmt.Println("cuenta final:", incremento)
+	fmt.Println("cuenta final, nuevo mensaje:", incremento)
 }
